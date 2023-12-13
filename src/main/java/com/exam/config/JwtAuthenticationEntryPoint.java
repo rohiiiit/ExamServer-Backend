@@ -23,12 +23,12 @@ public class JwtAuthenticationEntryPoint implements AuthenticationEntryPoint{
 }
 
 //{
-//	"username":"sushant3",
+//	"username":"rohit3",
 //	"password":"12345678",
-//	"firstName":"sushant",
-//	"lastName":"Waghmode",
-//	"email":"sushantwaghmode7@gmail.com",
-//	"phone":"9145280370",
+//	"firstName":"Rohit",
+//	"lastName":"Dol",
+//	"email":"rohitdol21@gmail.com",
+//	"phone":"9226412682",
 //	"profile":"default.png"
 //	
 //}
